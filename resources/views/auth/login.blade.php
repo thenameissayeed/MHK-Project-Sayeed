@@ -115,7 +115,8 @@
 </head>
 <body>
     <div class="login-container">
-        <h1>SMG</h1>
+        <h1>Mohd Sayeed Project</h1>
+        
         <h2>Login</h2>
 
         {{-- Display Validation Errors --}}
@@ -166,3 +167,4 @@
     </div>
 </body>
 </html>
+
